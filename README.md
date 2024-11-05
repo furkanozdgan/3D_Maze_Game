@@ -1,6 +1,5 @@
-# Labirent
+# 3D Maze Game
 
-3D Maze Game
 
 This project is a 3D maze game I developed using Unity. It offers a fun exploration and puzzle-solving experience, requiring players to find their way through the maze.
 
